@@ -1,1 +1,170 @@
-p{color: red;}
+body{font-family: 'Roboto', sans-serif;}
+img{width: 80%;}
+h1{
+    font-size: 45px;
+}
+.half-width {
+    width: 40%;
+    float: left;
+    margin: 45px 42px;
+    padding: 0px 20px;
+}
+.h1-color{color:orangered;}
+
+p{text-align: justify;}
+h2 {
+    font-size: 34px;
+    font-weight: bold;
+}
+.third-section{margin-top: 50px;}
+
+    section.secound-section {
+    display: inline-block;
+}{font-family: 'Roboto', sans-serif;}
+img{width: 80%;}
+h1{
+    font-size: 45px;
+}
+.h1-color{color:orangered;}
+.link-button{
+    text-decoration: none;
+    color: white;
+    padding: 15px 35px;
+    background: tomato;
+    border-radius: 7px;
+    display: inline-block;
+    margin-top: 40px;
+}
+p{text-align: justify;}
+h2 {
+    font-size: 38px;
+    font-weight: 600;
+    font-family: arial;
+}
+.third-section{background: #ddd;height: 600px;padding-top: 7px;margin-top: -30px;}
+.third-div{
+    width: 28%;
+    float: left;
+    margin-left: 31px;
+    background: white;
+    border-radius: 20px;
+    padding: 10px;
+    box-shadow: 6px 7px 35px;
+    }
+.third-div img{width: 99%;}
+.service-div{
+    width: 28%;
+    float: left;
+    margin-left: 32px;
+    background: #fdfdfd;
+    border-radius: 20px;
+    padding: 10px;
+    box-shadow: 2px 4px 16px;
+    height: 425px;
+    }
+.work-h1{text-align: center;}
+.background-image{
+    background-image: url("shapes/Group_33094_1.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 214px;
+    width: 73%;
+    margin: auto;
+    margin-top: 81px;
+    border-radius: 20px;
+}
+.work-section {
+    width: 40%;
+    float: left;
+    margin-left: 6px;
+    padding: 45px;
+}
+a#last-btn {
+    margin-left: 14px;
+}
+.contract-div {
+    width: 19%;
+    float: left;
+    padding: 8px;
+    margin: 12px;
+    background: aliceblue;
+    margin-left: 44px;
+}
+h3 {
+    text-align: center;
+    font-size: 21px;
+}
+
+p {
+    text-align: center;
+}
+.half-width p {
+    text-align: left;
+}
+.work-section h1 {
+    color: white;
+}
+.contract-div h5 {
+    text-align: center;
+    font-size: 20px;
+}
+.third-div h6 {
+    font-size: 19px;
+    text-align: center;
+}
+.service-div h5 {
+    text-align: center;
+}
+
+.service-div h6 {
+    font-size: 17px;
+    text-align: center;
+    color: brown;
+}
+
+.service-div p {
+    text-align: justify;
+    margin-top: -28px;
+}
+
+.service-div img {
+    width: 100%;
+}
+.service-section{display: inline-block}
+p#service-pera {
+    font-size: 18px;
+    margin-bottom: 36px;
+}
+h1.service-headline {
+    text-align: center;
+    margin-top: 52px;
+    text-decoration: underline;
+    color: #061f3e;
+}
+h1.contract-headline {
+    text-align: center;
+    margin: 48px;
+    padding: 10px;
+    color: orangered;
+    font-size: 53px;
+    font-family: cursive;
+}
+section.contrct-section {
+    height: 575px;
+}
+.fotter-center{text-align: center;}
+.footer-img {
+    width: 234px;
+    margin: auto;
+}
+
+.footer-img img {
+    width: 24%;
+    margin: 7px;
+}
+
+h4.fotter-center {
+    font-size: 20px;
+    font-weight: 600;
+    font-family: arial;
+}
